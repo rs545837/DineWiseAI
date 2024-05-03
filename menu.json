@@ -1,0 +1,177 @@
+{
+  "Kulfi": {
+    "items": [
+      {
+        "name": "Malka Kulfi",
+        "price": 140,
+        "categories": ["Veg", "Sweet", "Dinner", "Dessert"]
+      },
+      {
+        "name": "Kulfi Falooda",
+        "price": 145,
+        "categories": ["Veg", "Sweet", "Dinner", "Dessert"]
+      },
+      {
+        "name": "Rabri Falooda",
+        "price": 145,
+        "categories": ["Veg", "Sweet", "Dinner", "Dessert"]
+      }
+    ]
+  },
+  "Ice Cream & Ice Cream Soda": {
+    "items": [
+      {
+        "name": "Vanilla / Strawberry Ice Cream",
+        "price": 85,
+        "categories": ["Veg", "Sweet", "Dessert"]
+      },
+      {
+        "name": "Other Flavours Ice Cream",
+        "price": 85,
+        "categories": ["Veg", "Sweet", "Dessert"]
+      },
+      {
+        "name": "Vanilla / Strawberry Ice Cream Soda",
+        "price": 150,
+        "categories": ["Veg", "Sweet", "Dessert"]
+      },
+      {
+        "name": "Chocolate / Pineapple Ice Cream Soda",
+        "price": 150,
+        "categories": ["Veg", "Sweet", "Dessert"]
+      },
+      {
+        "name": "Lime Ice / Golden Glow Ice Cream Soda",
+        "price": 150,
+        "categories": ["Veg", "Sweet", "Dessert"]
+      },
+      {
+        "name": "Mango Ice Cream Soda",
+        "price": 150,
+        "categories": ["Veg", "Sweet", "Dessert"]
+      }
+    ]
+  },
+  "Beverages": {
+    "items": [
+      {
+        "name": "Hot Tea",
+        "price": 45,
+        "categories": ["Veg", "Breakfast", "Dinner", "Beverages"]
+      },
+      {
+        "name": "Hot Coffee",
+        "price": 85,
+        "categories": ["Veg", "Breakfast", "Dinner", "Beverages"]
+      },
+      {
+        "name": "Cold Coffee",
+        "price": 110,
+        "categories": ["Veg", "Dessert", "Dinner", "Beverages"]
+      },
+      {
+        "name": "Cold Coffee with Ice Cream",
+        "price": 140,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner", "Beverages"]
+      },
+      {
+        "name": "Kesar Pista Badam Milk",
+        "price": 90,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner", "Beverages"]
+      },
+      {
+        "name": "Lassi Kesaria",
+        "price": 98,
+        "categories": ["Veg", "Dinner", "Beverages"]
+      },
+      {
+        "name": "Lassi Masala",
+        "price": 98,
+        "categories": ["Veg", "Dinner", "Beverages"]
+      },
+      {
+        "name": "Badam Thandai",
+        "price": 95,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner", "Beverages"]
+      },
+      {
+        "name": "Fresh Lime Soda",
+        "price": 95,
+        "categories": ["Veg", "Dinner", "Beverages"]
+      },
+      {
+        "name": "Pepsi / Zino / Dew / Miranda",
+        "price": "MRP",
+        "categories": ["Veg", "Dinner", "Beverages"]
+      },
+      {
+        "name": "Mineral Water (1 Ltr)",
+        "price": "MRP",
+        "categories": ["Veg", "Dinner", "Beverages"]
+      }
+    ]
+  },
+  "Sundaes / Milk Shakes": {
+    "items": [
+      {
+        "name": "Hot Chocolate Fudge Single Sundae",
+        "price": 140,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner"]
+      },
+      {
+        "name": "Hot Chocolate Fudge Triple Sundae",
+        "price": 240,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner"]
+      },
+      {
+        "name": "Vanilla Milk Shake",
+        "price": 150,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner"]
+      },
+      {
+        "name": "Chocolate Milk Shake",
+        "price": 150,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner"]
+      },
+      {
+        "name": "Mango Milk Shake",
+        "price": 150,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner"]
+      },
+      {
+        "name": "Strawberry Milk Shake",
+        "price": 150,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner"]
+      },
+      {
+        "name": "Pineapple Milk Shake",
+        "price": 150,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner"]
+      },
+      {
+        "name": "Vanilla Milk Shake (with ice cream)",
+        "price": 180,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner"]
+      },
+      {
+        "name": "Chocolate Milk Shake (with ice cream)",
+        "price": 180,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner"]
+      },
+      {
+        "name": "Mango Milk Shake (with ice cream)",
+        "price": 180,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner"]
+      },
+      {
+        "name": "Strawberry Milk Shake (with ice cream)",
+        "price": 180,
+        "categories": ["Veg", "Sweet", "Dessert", "Dinner"]
+      }
+    ]
+  },
+  "Sweets": { "Rasogolla (1 pcs.)": 12, "Makhan Rasogolla (1 pcs.)": 20, "Milk Rasogolla (1 pcs.)": 33, "Rasmalai (1 pcs.)": 40, "Rabri Rasmalai (1 pcs.)": 90, "Rajbhog (2 pcs.)": 100, "Indrani Rabri Pastries": 85, "Frulli Cup": 90 }, "Season Sweets": { "Dal Ka Halwa": 70, "Gajjar Ke Halwa": 68, "Shahi Gulab Jamun": 55, "Malpua (2 pcs.)": 90, "Jalebi (per Kg.)": 550 }, "North Indian": { "Daily Spl. Paneer": 340, "Shahi Paneer": 340, "Mix Vegetable": 290, "Daily Special Vegetables": 290, "Dal Makhani": 290, "Chana Masala": 250, "Rajma Masala": 220, "Kadhi Pakora": 195, "Dal Tadka": 220, "Veg Pulao": 195, "Basmati Raita": 145, "Green Salad": 110 }, "Thali & Platters": { "Deluxe Thali": 380, "Special Packing For Deluxe Makhani Thali": 290, "Executive Thali": 290, "Ghar Ki Thali": 285, "Tawa Parantha Thali": 380, "Tandoori Platter": 395, "Chinese Platter": 350, "South Indian Platter": 370, "Sarson Ka Saag & Makka Ki Roti (Seasonal)": 340, "Hyderabadi Chapp with-Baby Naan": 240 },
+
+  "Special Eco Meals": { "Chhola Bhature": 180, "Chhola Pulao": 170, "Kadhi Chawal": 180, "Rajma Pulao": 170, "Dal Makhani Pulao": 189, "Shahi Paneer Pulao": 199, "Veg. Biryani & Raita": 245, "Paneer Naan with Dal & Raita": 260, "Onion Kulcha with-Dal & Raita": 260, "Aloo Kulcha with-Dal & Raita": 260 }, "Tawa & Tandoor Se": { "Roti Makhani": 40, "Lachha Parantha": 80, "Missi Roti": 65, "Plain Naan": 65, "Butter Naan": 85, "Aloo Naan": 95, "Onion Kulcha": 95, "Paneer Kulcha": 110, "Pappad": 25, "Paneer Tikka": 340, "Tandoori Aloo": 280, "Veg. Seekh Kabab": 270, "Tawa Parantha": 65, "Aloo Parantha": 105, "Paneer Parantha": 115 }, "South Indian": { "Plain Dosa": 190, "Masala Dosa": 210, "Onion Dosa": 210, "Onion Masala Dosa": 230, "Plain Paper Dosa": 210, "Rawa Masala Dasti": 230, "Onion Rawa Dosa": 220, "Onion Rawa Masala Dosa": 240, "Paper Masala Dosa": 250, "Paneer Dosa": 250, "Idli Sambhar": 145, "Medhu Sambhar": 145, "Plain Uttapan": 200, "Onion Uttapan": 230, "Tomato Uttapan": 230, "Tomato Onion Uttapan": 230, "Mixed Uttapan": 230 }, "Pizza & Pasta": { "Chilli Paneer Pizza": 295, "Cheese Pizza": 250, "Tomato Capsicum Pizza": 260, "Onion Capsicum Pizza": 260, "Onion Capsicum Tomato Pizza": 270, "Onion Capsicum-Mushroom Pizza": 270, "Onion Capsicum Tomato-Mushroom Pizza": 270 },
+  "Chinese & Continental": { "Tomato Soup": 120, "Sweet Corn Soup": 120, "Tolumein Soup": 130, "Hot & Sour Soup": 120, "Chilli Garlic Noodles": 210, "Veg. Chowmein": 210, "Veg. Fried Rice": 200, "Veg. Manchurian (Dry / Gravy)": 245, "Chilli Paneer (Dry / Gravy)": 290, "Spring Roll": 220, "Chilli Potato": 180, "Veg. Burger": 115, "Veg. Cheese Burger": 130, "French Fries": 105, "Manchurian with Chowmein / Fried Rice": 240, "Chilli Paneer with Chowmein / Fried Rice": 240 }, "Chatpati Chaat": { "Pani Puri (6 Pcs.)": 65, "Bhel Puri": 100, "Dahi Puri": 150, "Dahi Bhalla": 150, "Samosa Chaat": 110, "Kachori Chaat": 100, "Aloo Tikki (2 Pcs.)": 125, "Papdi Chaat": 150, "Raj Kachori": 160, "Bhalla Papri": 160, "Pao Bhaji": 180, "Matar Kulcha": 150, "Chhole Kulcha": 160, "Veg. Sandwich": 60, "Tandoori Paneer Sandwich": 62, "Grilled Sandwich": 185 }, "Dhokla": { "Plain Dhokla (per kg)": 280, "Sandwich Dhokla (per kg)": 380, "Paneer Dhokla (per kg)": 400, "Khandwi Dhokla (per kg)": 400 }, "Breakfast Special (Items available 8 am to 11 am)": { "Puri with Subzi": 120, "Kachori with Subzi": 110, "Puri Subzi with Raita": 145, "Aloo Parantha with Curd": 120, "Paneer Parantha with Curd": 130 }, "Snacks": { "Samosa (per pc.)": 20, "Kachori (per pc.)": 20, "Pizza Slice": 57, "Paneer Pakora (per pc.)": 45, "Mirch Pakora (per pc.)": 42, "Paneer Cutlet (per pc.)": 40, "Pyaz Kachori (per pc.)": 42, "Veg. Patty (per pc.)": 30, "Paneer Patty (per pc.)": 38, "Vada Pao": 60, "Hyderabadi Paneer Kulcha": 55, "Chana Masala Kulcha": 55, "Matar Kachori (per pc.)": 500, "Matar Samosa (per pc.)": 500, "Veg. Cutlet": 38 } 
+}
